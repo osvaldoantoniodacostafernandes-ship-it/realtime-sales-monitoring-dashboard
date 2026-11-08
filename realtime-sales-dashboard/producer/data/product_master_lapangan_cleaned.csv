@@ -1,0 +1,209 @@
+product_id,product_name,category,price_options_usd,observed_price_count,dataset_price_usd,price_status,category_status
+P001,Johnnie Walker Red Label,Alcohol,"23.00, 27.00, 30.00, 35.00, 47.00",5,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P002,Johnnie Walker Black Label,Alcohol,"20.00, 35.00, 47.00",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P003,Johnnie Walker Double Black,Alcohol,54.00,1,54.0,OK - one observed price,Inferred from product name
+P004,Johnnie Walker Gold Label Reserve,Alcohol,62.00,1,62.0,OK - one observed price,Inferred from product name
+P005,Johnnie Walker Blonde,Alcohol,"29.00, 45.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P006,Jack Daniel's Old No. 7,Alcohol,46.00,1,46.0,OK - one observed price,Inferred from product name
+P007,Ballantine's Finest,Alcohol,35.00,1,35.0,OK - one observed price,Inferred from product name
+P008,Highland Legend,Needs Verification,"6.00, 8.75, 17.50, 23.00",4,,REVIEW - multiple observed prices; size/variant not specified,Needs manual verification
+P009,Drum Whisky,Alcohol,"8.50, 9.50, 21.00",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P010,Chivas Regal,Alcohol,51.00,1,51.0,OK - one observed price,Inferred from product name
+P011,Dom Bairo,Alcohol,40.00,1,40.0,OK - one observed price,Inferred from product name
+P012,Sheridans,Alcohol,41.00,1,41.0,OK - one observed price,Inferred from product name
+P013,Tanqueray London Dry Gin,Alcohol,"38.00, 45.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P014,Gordon's London Dry Gin,Alcohol,"23.00, 30.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P015,Finsbury,Alcohol,18.00,1,18.0,OK - one observed price,Inferred from product name
+P016,Asoka Vodka,Alcohol,6.00,1,6.0,OK - one observed price,Inferred from product name
+P017,Danzka Forty,Alcohol,45.00,1,45.0,OK - one observed price,Inferred from product name
+P018,Skyy Vodka,Alcohol,25.00,1,25.0,OK - one observed price,Inferred from product name
+P019,Smirnoff,Needs Verification,"20.00, 26.00, 42.00",3,,REVIEW - multiple observed prices; size/variant not specified,Needs manual verification
+P020,Iceland Vodka,Alcohol,"11.50, 15.00, 23.00",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P021,Old Pascas,Alcohol,"18.00, 20.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P022,Pascas,Alcohol,11.00,1,11.0,OK - one observed price,Inferred from product name
+P023,Porta da Ravessa,Alcohol,11.00,1,11.0,OK - one observed price,Inferred from product name
+P024,Faisao,Alcohol,"13.50, 14.50",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P025,Sierra Tequila,Alcohol,"35.00, 36.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P026,Batavia,Alcohol,20.00,1,20.0,OK - one observed price,Inferred from product name
+P027,Ginza,Alcohol,9.00,1,9.0,OK - one observed price,Inferred from product name
+P028,Tia Maria,Alcohol,15.00,1,15.0,OK - one observed price,Inferred from product name
+P029,Baileys,Alcohol,28.25,1,28.25,OK - one observed price,Inferred from product name
+P030,Camillo Alves,Alcohol,"2.50, 10.00, 11.00",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P031,Yellow Tail,Alcohol,"9.75, 12.50",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P032,Kuda Metan,Alcohol,"3.50, 3.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P033,Bison Gold / Bison Black,Alcohol,"18.00, 21.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P034,AP,Needs Verification,"11.00, 14.50",2,,REVIEW - multiple observed prices; size/variant not specified,Needs manual verification
+P035,JP Azelia,Alcohol,"11.00, 12.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P036,Real Lavrador,Alcohol,11.00,1,11.0,OK - one observed price,Inferred from product name
+P037,Rabi,Needs Verification,35.00,1,35.0,OK - one observed price,Needs manual verification
+P038,Cela,Needs Verification,15.00,1,15.0,OK - one observed price,Needs manual verification
+P039,O'Donnell's,Alcohol,41.00,1,41.0,OK - one observed price,Inferred from product name
+P040,The Original Irish Whiskey,Alcohol,32.00,1,32.0,OK - one observed price,Inferred from product name
+P041,Jim Beam Honey,Alcohol,33.00,1,33.0,OK - one observed price,Inferred from product name
+P042,Jim Beam Bourbon,Alcohol,27.00,1,27.0,OK - one observed price,Inferred from product name
+P043,Jim Beam Black Cherry,Alcohol,27.00,1,27.0,OK - one observed price,Inferred from product name
+P044,Bushmills,Alcohol,32.00,1,32.0,OK - one observed price,Inferred from product name
+P045,Rare Old,Alcohol,35.00,1,35.0,OK - one observed price,Inferred from product name
+P046,Absolut Vodka,Alcohol,"25.00, 26.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P047,Bombay Sapphire,Alcohol,"31.00, 33.00, 40.00",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P048,Aqua Fresca,Beverages,"1.00, 6.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P049,Bintang (Lata),Beer,1.25,1,1.25,OK - one observed price,Inferred from product name
+P050,ABC (Lata),Beer,"1.50, 2.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P051,Skol (Lata),Beer,1.75,1,1.75,OK - one observed price,Inferred from product name
+P052,Frost (Lata),Beer,1.25,1,1.25,OK - one observed price,Inferred from product name
+P053,Carlsberg (Botir),Beer,"2.00, 2.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P054,Super Bock (Botir),Beer,2.50,1,2.5,OK - one observed price,Inferred from product name
+P055,Bintang (Botir),Beer,3.75,1,3.75,OK - one observed price,Inferred from product name
+P056,Pocari Sweat,Beverages,1.50,1,1.5,OK - one observed price,Inferred from product name
+P057,Cruiser (Pineapple/Guava),Beverages,"1.75, 2.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P058,Buavita,Beverages,2.50,1,2.5,OK - one observed price,Inferred from product name
+P059,Cypriana,Beverages,2.50,1,2.5,OK - one observed price,Inferred from product name
+P060,Country Choice (Mangga/Jambu),Needs Verification,1.75,1,1.75,OK - one observed price,Needs manual verification
+P061,Good Day,Beverages,"1.50, 1.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P062,Teh Tarik,Beverages,1.50,1,1.5,OK - one observed price,Inferred from product name
+P063,Kiranti,Beverages,1.50,1,1.5,OK - one observed price,Inferred from product name
+P064,Base Seed,Beverages,"0.50, 1.25",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P065,Kara Coco,Beverages,1.00,1,1.0,OK - one observed price,Inferred from product name
+P066,Yoghurt,Dairy & Milk,"0.35, 0.50, 1.00, 1.50",4,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P067,Jus (Sira seluk),Beverages,"0.50, 1.25, 1.50",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P068,Sun Up Guava,Beverages,2.25,1,2.25,OK - one observed price,Inferred from product name
+P069,Sun Up Orange,Beverages,1.75,1,1.75,OK - one observed price,Inferred from product name
+P070,Cyprina 8 Red Fruits,Beverages,2.50,1,2.5,OK - one observed price,Inferred from product name
+P071,Buavita Manjai,Beverages,2.50,1,2.5,OK - one observed price,Inferred from product name
+P072,Kopi Susu,Dairy & Milk,1.75,1,1.75,OK - one observed price,Inferred from product name
+P073,Teh Kotak,Beverages,1.00,1,1.0,OK - one observed price,Inferred from product name
+P074,Teh Botol (Kotak),Beverages,1.50,1,1.5,OK - one observed price,Inferred from product name
+P075,B'Kita,Beverages,0.75,1,0.75,OK - one observed price,Inferred from product name
+P076,Guava,Beverages,0.75,1,0.75,OK - one observed price,Inferred from product name
+P077,B'dina,Beverages,1.25,1,1.25,OK - one observed price,Inferred from product name
+P078,Milk Drink,Dairy & Milk,0.50,1,0.5,OK - one observed price,Inferred from product name
+P079,Nescafe,Beverages,1.50,1,1.5,OK - one observed price,Inferred from product name
+P080,Milku,Dairy & Milk,0.75,1,0.75,OK - one observed price,Inferred from product name
+P081,Domilk Kids,Dairy & Milk,1.00,1,1.0,OK - one observed price,Inferred from product name
+P082,Tebs,Beverages,1.25,1,1.25,OK - one observed price,Inferred from product name
+P083,Sprite,Beverages,1.75,1,1.75,OK - one observed price,Inferred from product name
+P084,Milo,Dairy & Milk,2.00,1,2.0,OK - one observed price,Inferred from product name
+P085,Coca-Cola (Lata),Beverages,"1.25, 1.50",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P086,Fanta (Lata),Beverages,1.25,1,1.25,OK - one observed price,Inferred from product name
+P087,Anchor Full Cream Milk,Dairy & Milk,2.00,1,2.0,OK - one observed price,Inferred from product name
+P088,Ultra Milk Full Cream,Dairy & Milk,2.00,1,2.0,OK - one observed price,Inferred from product name
+P089,Indomilk Good Milk,Dairy & Milk,1.75,1,1.75,OK - one observed price,Inferred from product name
+P090,Ultra Milk Chocolate,Dairy & Milk,4.25,1,4.25,OK - one observed price,Inferred from product name
+P091,Australia's Own Full Cream Milk,Dairy & Milk,1.75,1,1.75,OK - one observed price,Inferred from product name
+P092,Australia's Own Low Fat Milk,Dairy & Milk,3.00,1,3.0,OK - one observed price,Inferred from product name
+P093,Pauls Milk,Dairy & Milk,2.25,1,2.25,OK - one observed price,Inferred from product name
+P094,Devondale Extra Light,Dairy & Milk,2.25,1,2.25,OK - one observed price,Inferred from product name
+P095,Tom Milk,Dairy & Milk,"1.50, 2.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P096,Tomi Milk,Dairy & Milk,0.75,1,0.75,OK - one observed price,Inferred from product name
+P097,Indomilk Susu Steril,Dairy & Milk,"1.00, 1.50",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P098,Ultra Milk (Série),Dairy & Milk,"0.50, 0.85",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P099,Biskuat (Série),Food & Snacks,"0.75, 1.50, 2.75",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P100,Cadbury,Food & Snacks,2.25,1,2.25,OK - one observed price,Inferred from product name
+P101,Nestle,Needs Verification,1.50,1,1.5,OK - one observed price,Needs manual verification
+P102,Dubai Style Chocolate,Food & Snacks,4.25,1,4.25,OK - one observed price,Inferred from product name
+P103,Dairy Milk (Série),Dairy & Milk,"1.25, 1.35, 1.75, 2.25",4,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P104,Milo (Lata),Dairy & Milk,0.50,1,0.5,OK - one observed price,Inferred from product name
+P105,Nestle (Lata),Needs Verification,1.50,1,1.5,OK - one observed price,Needs manual verification
+P106,Indomilk Kids,Dairy & Milk,0.75,1,0.75,OK - one observed price,Inferred from product name
+P107,Larutan Cap Kaki,Beverages,1.00,1,1.0,OK - one observed price,Inferred from product name
+P108,Nata de Coco,Needs Verification,"0.75, 1.25",2,,REVIEW - multiple observed prices; size/variant not specified,Needs manual verification
+P109,Draft Beer (Botir),Beer,1.50,1,1.5,OK - one observed price,Inferred from product name
+P110,Prost (Botir),Beer,1.50,1,1.5,OK - one observed price,Inferred from product name
+P111,Bintang Crystal (Botir),Beer,1.50,1,1.5,OK - one observed price,Inferred from product name
+P112,"ABC (Kaixa 24, 330ml)",Beer,48.00,1,48.0,OK - one observed price,Inferred from product name
+P113,"ABC (Kaixa 24, 250ml)",Beer,36.00,1,36.0,OK - one observed price,Inferred from product name
+P114,"Bintang (Kaixa 24, 330ml)",Beer,36.00,1,36.0,OK - one observed price,Inferred from product name
+P115,"Bintang (Kaixa 24, 250ml)",Beer,30.00,1,30.0,OK - one observed price,Inferred from product name
+P116,ABC Saus Tomat (Botir),Sauces & Seasoning,"0.50, 0.60, 1.25, 1.35",4,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P117,ABC Saus Extra Hot,Sauces & Seasoning,"0.60, 1.25, 1.35",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P118,ABC Kecap Asin,Sauces & Seasoning,0.50,1,0.5,OK - one observed price,Inferred from product name
+P119,ABC Kecap Manis,Sauces & Seasoning,1.35,1,1.35,OK - one observed price,Inferred from product name
+P120,Mama Suka Saus Bolognese,Sauces & Seasoning,1.50,1,1.5,OK - one observed price,Inferred from product name
+P121,Mama Suka Saus Bulgogi,Sauces & Seasoning,1.00,1,1.0,OK - one observed price,Inferred from product name
+P122,Saus Tiram Cap Panda,Sauces & Seasoning,4.00,1,4.0,OK - one observed price,Inferred from product name
+P123,Kicap ABC (Botir Verde),Needs Verification,0.75,1,0.75,OK - one observed price,Needs manual verification
+P124,Mama Suka Tepung Bumbu Korea,Sauces & Seasoning,1.00,1,1.0,OK - one observed price,Inferred from product name
+P125,Mama Suka Tepung Bumbu Kentucky,Sauces & Seasoning,"0.50, 1.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P126,Mama Suka Tepung Bumbu Krispi Serbaguna,Sauces & Seasoning,"0.25, 0.50",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P127,Suki (Pakote),Food & Snacks,1.00,1,1.0,OK - one observed price,Inferred from product name
+P128,Roti (Pakote),Food & Snacks,1.00,1,1.0,OK - one observed price,Inferred from product name
+P129,Nutrisari,Beverages,0.75,1,0.75,OK - one observed price,Inferred from product name
+P130,"Puding Susu (Melon, Mangga, Strawberry, Pandan)",Dairy & Milk,1.25,1,1.25,OK - one observed price,Inferred from product name
+P131,Puding Mix Choco Truffle,Food & Snacks,1.25,1,1.25,OK - one observed price,Inferred from product name
+P132,Nutella,Food & Snacks,8.50,1,8.5,OK - one observed price,Inferred from product name
+P133,Sincero Hazelnut Spread,Food & Snacks,4.25,1,4.25,OK - one observed price,Inferred from product name
+P134,Jam Raspberry,Food & Snacks,"0.75, 2.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P135,Harry (Botir Verde),Needs Verification,"0.75, 1.00",2,,REVIEW - multiple observed prices; size/variant not specified,Needs manual verification
+P136,Mr. P,Needs Verification,2.25,1,2.25,OK - one observed price,Needs manual verification
+P137,"Bella (Sardin, Choco Cashew)",Canned & Packaged Food,2.25,1,2.25,OK - one observed price,Inferred from product name
+P138,"Bebidas Seluk (DIXI, etc.)",Beverages,"0.60, 0.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P139,ABC Saus Tomat,Sauces & Seasoning,"0.60, 1.25",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P140,La Fonte Bolognese,Sauces & Seasoning,3.75,1,3.75,OK - one observed price,Inferred from product name
+P141,Mama Suka Lada Putih,Sauces & Seasoning,0.75,1,0.75,OK - one observed price,Inferred from product name
+P142,Ladaku Merica Bubuk,Sauces & Seasoning,3.25,1,3.25,OK - one observed price,Inferred from product name
+P143,Sajiku Tepung Bumbu Serbaguna Pedas,Sauces & Seasoning,0.50,1,0.5,OK - one observed price,Inferred from product name
+P144,King's Fisher Tepung Udang,Baking & Dry Goods,1.00,1,1.0,OK - one observed price,Inferred from product name
+P145,Suki,Food & Snacks,1.00,1,1.0,OK - one observed price,Inferred from product name
+P146,Roti,Food & Snacks,1.00,1,1.0,OK - one observed price,Inferred from product name
+P147,Sedap Cup,Food & Snacks,1.50,1,1.5,OK - one observed price,Inferred from product name
+P148,Skippy Crunchy Peanut Butter,Food & Snacks,"3.00, 3.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P149,Skippy Creamy Peanut Butter,Food & Snacks,"3.00, 3.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P150,"Bella (Chocolate, Sardin)",Food & Snacks,2.25,1,2.25,OK - one observed price,Inferred from product name
+P151,Kara Santan (Krim Kelapa),Sauces & Seasoning,"1.25, 1.50, 3.50",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P152,Hosen Rambutan Pineapple,Canned & Packaged Food,2.25,1,2.25,OK - one observed price,Inferred from product name
+P153,Hosen Honey,Food & Snacks,3.50,1,3.5,OK - one observed price,Inferred from product name
+P154,Hosen Bamboo Shoot,Canned & Packaged Food,3.50,1,3.5,OK - one observed price,Inferred from product name
+P155,Madu TJ,Food & Snacks,2.25,1,2.25,OK - one observed price,Inferred from product name
+P156,Cendrawasih Tem/Ovalet,Needs Verification,1.00,1,1.0,OK - one observed price,Needs manual verification
+P157,Whip Cream Gold,Dairy & Milk,8.50,1,8.5,OK - one observed price,Inferred from product name
+P158,DIXI,Beverages,0.75,1,0.75,OK - one observed price,Inferred from product name
+P159,Betet (Sachet),Needs Verification,0.25,1,0.25,OK - one observed price,Needs manual verification
+P160,Vanilla (Botir),Sauces & Seasoning,1.00,1,1.0,OK - one observed price,Inferred from product name
+P161,Pemanis (Sachet),Needs Verification,0.75,1,0.75,OK - one observed price,Needs manual verification
+P162,Pacific Queen Tuna,Canned & Packaged Food,2.25,1,2.25,OK - one observed price,Inferred from product name
+P163,Mama Suka Pancake Mix Choco Nut,Baking & Dry Goods,1.75,1,1.75,OK - one observed price,Inferred from product name
+P164,Sambal Terasi (Botir),Sauces & Seasoning,2.25,1,2.25,OK - one observed price,Inferred from product name
+P165,Sambal Bawang (Botir),Sauces & Seasoning,2.25,1,2.25,OK - one observed price,Inferred from product name
+P166,Sambal Udang (Botir),Sauces & Seasoning,2.25,1,2.25,OK - one observed price,Inferred from product name
+P167,Spaghetti,Baking & Dry Goods,"1.25, 2.00",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P168,Pingo Doce Cravinho,Sauces & Seasoning,1.25,1,1.25,OK - one observed price,Inferred from product name
+P169,Pingo Doce Açafrão,Sauces & Seasoning,1.25,1,1.25,OK - one observed price,Inferred from product name
+P170,Ajinomoto (Sachet),Sauces & Seasoning,"0.25, 0.50",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P171,Ajinomoto (Pakote Boot),Sauces & Seasoning,2.00,1,2.0,OK - one observed price,Inferred from product name
+P172,Bumbu Rendang,Sauces & Seasoning,0.75,1,0.75,OK - one observed price,Inferred from product name
+P173,Garam Plastik Kecil,Sauces & Seasoning,0.15,1,0.15,OK - one observed price,Inferred from product name
+P174,Bolognese,Sauces & Seasoning,1.50,1,1.5,OK - one observed price,Inferred from product name
+P175,Wow Spaghetti Goreng,Baking & Dry Goods,0.50,1,0.5,OK - one observed price,Inferred from product name
+P176,Maestro Saus Mayones,Sauces & Seasoning,"0.75, 1.00, 2.25",3,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P177,Mama Suka Mayonais,Sauces & Seasoning,3.75,1,3.75,OK - one observed price,Inferred from product name
+P178,Golden Churn Butter,Food & Snacks,7.00,1,7.0,OK - one observed price,Inferred from product name
+P179,Amanda Margarin,Food & Snacks,0.50,1,0.5,OK - one observed price,Inferred from product name
+P180,Windmolen Cocoa,Food & Snacks,1.00,1,1.0,OK - one observed price,Inferred from product name
+P181,Sun Kara Krim Kelapa,Needs Verification,0.50,1,0.5,OK - one observed price,Needs manual verification
+P182,Kerupuk Singkong Pedas,Food & Snacks,0.75,1,0.75,OK - one observed price,Inferred from product name
+P183,Madu TJ (Botir),Food & Snacks,2.50,1,2.5,OK - one observed price,Inferred from product name
+P184,Sachet (Rosa),Needs Verification,0.25,1,0.25,OK - one observed price,Needs manual verification
+P185,Sachet (Verde),Needs Verification,0.50,1,0.5,OK - one observed price,Needs manual verification
+P186,Sachet (Mean),Needs Verification,0.25,1,0.25,OK - one observed price,Needs manual verification
+P187,Bumbu Rendang 35g,Sauces & Seasoning,0.75,1,0.75,OK - one observed price,Inferred from product name
+P188,Ajinomoto Sachet Besar,Sauces & Seasoning,0.50,1,0.5,OK - one observed price,Inferred from product name
+P189,Ajinomoto 500g,Sauces & Seasoning,2.00,1,2.0,OK - one observed price,Inferred from product name
+P190,Masako Ayam,Sauces & Seasoning,0.50,1,0.5,OK - one observed price,Inferred from product name
+P191,Soda Kue 40g,Baking & Dry Goods,0.20,1,0.2,OK - one observed price,Inferred from product name
+P192,Baking Soda (Arm & Hammer),Baking & Dry Goods,1.75,1,1.75,OK - one observed price,Inferred from product name
+P193,Maizenaku Corn Starch,Baking & Dry Goods,0.75,1,0.75,OK - one observed price,Inferred from product name
+P194,Fermipan Sachet,Baking & Dry Goods,"0.50, 0.75",2,,REVIEW - multiple observed prices; size/variant not specified,Inferred from product name
+P195,Fermipan Box,Baking & Dry Goods,2.00,1,2.0,OK - one observed price,Inferred from product name
+P196,Royal Baking Powder,Baking & Dry Goods,1.25,1,1.25,OK - one observed price,Inferred from product name
+P197,Kucing (Santan),Sauces & Seasoning,0.30,1,0.3,OK - one observed price,Inferred from product name
+P198,Makaroni Sedani,Baking & Dry Goods,2.00,1,2.0,OK - one observed price,Inferred from product name
+P199,Kompas Tepung Terigu Serbaguna,Baking & Dry Goods,1.10,1,1.1,OK - one observed price,Inferred from product name
+P200,Segitiga Biru,Needs Verification,1.25,1,1.25,OK - one observed price,Needs manual verification
+P201,Tepung Ketan Putih Rose Brand,Baking & Dry Goods,1.25,1,1.25,OK - one observed price,Inferred from product name
+P202,Tepung Beras Putih Rose Brand,Baking & Dry Goods,0.75,1,0.75,OK - one observed price,Inferred from product name
+P203,Tepung Tapioka Rose Brand,Baking & Dry Goods,0.75,1,0.75,OK - one observed price,Inferred from product name
+P204,UD. Anugerah (Sachet),Needs Verification,0.25,1,0.25,OK - one observed price,Needs manual verification
+P205,Tepung Gula (Sachet),Baking & Dry Goods,0.75,1,0.75,OK - one observed price,Inferred from product name
+P206,Klin Pak Cling Wrap,Household,2.00,1,2.0,OK - one observed price,Inferred from product name
+P207,Klin Pak Aluminium Foil,Household,1.50,1,1.5,OK - one observed price,Inferred from product name
+P208,Aluminium Foil (5M Heavy Duty),Household,1.00,1,1.0,OK - one observed price,Inferred from product name
